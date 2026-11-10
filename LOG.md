@@ -13,3 +13,9 @@ End the log with your plan for what to try next.
 - validation: 0.000 (before: 0.000)
 - what it means: what you think the result says
 -->
+
+## 2026-11-10 baseline (Track A)
+- changed: nothing — the starter recipe on all training photos, seeds 0 and 1
+- why:
+- validation: 0.495 and 0.492, mean 0.494 (first runs)
+- what it means:
